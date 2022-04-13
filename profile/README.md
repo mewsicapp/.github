@@ -12,7 +12,7 @@ mewsic pulls from Youtube and Soundcloud (WIP) for video/audio content,
 and can pull from not only those but also Spotify (WIP), Deezer (WIP), and Tidal (WIP)
 to import playlists and liked songs.
 
-## What do you mean by "univerally"?
+## What do you mean by "universally"?
 mewsic builds to native via Kotlin build targets on platforms such as:
 - Android 
 - iOS 
