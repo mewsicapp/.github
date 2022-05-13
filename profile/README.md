@@ -1,7 +1,7 @@
 # mewsic - a better music client
 
 ## What is mewsic?
-mewsic (if you capitalize it i will be sad but wont stop you) is a univerally cross-platform music client
+mewsic (if you capitalize it i will be sad but wont stop you) is a universally cross-platform music client
 that is designed to be as feature-rich and extendable as possible.
 
 ## Why?
