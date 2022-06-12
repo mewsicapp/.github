@@ -22,7 +22,7 @@ mewsic builds to native via Kotlin build targets on platforms such as:
 - Web*
 
 *Web is likely not actually possible due to CORS restrictions, but it is a hope.
-
+**the build targets are disputed due to issues with building kotlin user interfaces for iOS and the heavily different codebases versus the possible utility of a Web version**
 ## What features does mewsic have?
 mewsic has a lot of features, but the most important ones are:
 - Playlist and Liked Song sync from other platforms
